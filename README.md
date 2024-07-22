@@ -2,9 +2,7 @@
 ClinVar Search helps extracts data from the ClinVar page using EUtils package.
 
 To get all the short variants i.e. Variants < 50kb (SNV and Short INDELS).
-
 Also pass a comma seperated list of words you want to search to scrape the ClinVar ID page for those words.
-
 The outPrefix parameter takes the name of the output and it will be generate results in the same folder where the script is.
 Make sure to pass a csv file with column name 'coordinates' and the genomic coordinates in GRCh38:chromosome:start:end format.
 
