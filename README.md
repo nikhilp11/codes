@@ -1,4 +1,4 @@
-## ClinVar Search
+## ClinVar Search (clinvarSearch.py)
 ClinVar Search helps extracts data from the ClinVar page using EUtils package.
 
 To get all the short variants i.e. Variants < 50kb (SNV and Short INDELS).<br> 
